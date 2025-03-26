@@ -1,7 +1,7 @@
 ---
 title: "git_01"
-author: "Math_116"
-date: "Fall semester"
+author: "Anicia Friend"
+date: "Spring 2025"
 output: html_document
 ---
 
@@ -16,11 +16,25 @@ you, if you change any of this the git program will notice it and compromise you
 ## First Verse 
 <!--Put the first five lines of a poem by Lewis Carrol in this section!-->
 
+  Five little girls, of Five, Four, Three, Two, One:
+Rolling on the hearthrug, full of tricks and fun.
+
+  Five rosy girls, in years from Ten to Six:
+Sitting down to lessons - no more time for tricks.
+
+  Five growing girls, from Fifteen to Eleven:
+
 ## Second Verse
 <!--Put the first five lines of a poem by Robert Frost here!-->
+
+
 
 ## Third Verse
 <!--Put the first two verses of The Walrus and the Carpenter here!-->
 
+
+
 ## Last Verse
 <!--Put a short poem you created using chatGPT of 20 to 30 lines,here!-->
+
+
