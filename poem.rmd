@@ -16,57 +16,21 @@ you, if you change any of this the git program will notice it and compromise you
 ## First Verse 
 <!--Put the first five lines of a poem by Lewis Carrol in this section!-->
 
-  Five little girls, of Five, Four, Three, Two, One:
-Rolling on the hearthrug, full of tricks and fun.
-
-  Five rosy girls, in years from Ten to Six:
-Sitting down to lessons - no more time for tricks.
-
-  Five growing girls, from Fifteen to Eleven:
+  
 
 ## Second Verse
 <!--Put the first five lines of a poem by Robert Frost here!-->
 
-Two roads diverged in a yellow wood,
-And sorry I could not travel both
-And be one traveler, long I stood
-And looked down one as far as I could
-To where it bent in the undergrowth;
+
 
 
 ## Third Verse
 <!--Put the first two verses of The Walrus and the Carpenter here!-->
 
-"The sun was shining on the sea, Shining with all his might: He did his very best to make The billows smooth and bright— And this was odd, because it was The middle of the night."
-
-The Carpenter said nothing but 'Cut us another slice- I wish you were not quite so deaf- I've had to ask you twice!' 'It seems a shame,' the Walrus said, 'To play them such a trick. After we've brought them out so far, And made them trot so quick!'"
 
 
 ## Last Verse
 <!--Put a short poem you created using chatGPT of 20 to 30 lines,here!-->
 
-Love is a whisper soft and low,
-A gentle flame with steady glow.
-It blooms in silence, grows with time,
-A song that needs no perfect rhyme.
 
-It lingers in a fleeting glance,
-In hearts that dare to take the chance.
-It lives in laughter, thrives in tears,
-A light that shines through all our fears.
-
-It’s holding hands through storms and sun,
-Two souls who move as though they’re one.
-Not bound by rules or written laws,
-But strengthened through each little flaw.
-
-It’s morning talks and late-night calls,
-The way one catches when one falls.
-It’s messy, honest, raw, and true—
-And finds its beauty in the view.
-
-For love is more than words can prove,
-It’s felt in all the things we do.
-A quiet bond that won’t let go,
-A home in hearts that learn to grow.
 
