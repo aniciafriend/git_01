@@ -16,21 +16,39 @@ you, if you change any of this the git program will notice it and compromise you
 ## First Verse 
 <!--Put the first five lines of a poem by Lewis Carrol in this section!-->
 
+<<<<<<< HEAD
   
+=======
+
+>>>>>>> verse2
 
 ## Second Verse
 <!--Put the first five lines of a poem by Robert Frost here!-->
 
+<<<<<<< HEAD
 
+=======
+MIST- I don't believe the sleepers in the house know where they are.  
+SMOKE- They've been here long enough to push the woods back from around the house and part them in the middle with a path.  
+MIST- And still I doubt if they know where they are.   And I begin to fear they never will. All they maintain the path for is the comfort of visiting with the equally bewildered.  
+>>>>>>> verse2
 
 
 ## Third Verse
 <!--Put the first two verses of The Walrus and the Carpenter here!-->
 
+<<<<<<< HEAD
 
+=======
+"
+>>>>>>> verse2
 
 
 ## Last Verse
 <!--Put a short poem you created using chatGPT of 20 to 30 lines,here!-->
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> verse2
 
